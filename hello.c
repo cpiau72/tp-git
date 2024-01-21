@@ -11,7 +11,7 @@
 int main ()
 {
     /* afficher le mot bonjour et saut de ligne */
-    printf("Hello world , It's  Claudine 's new version!\n");
+    printf("Hello world , It's  me !\n");
     return 2;
 
 }
