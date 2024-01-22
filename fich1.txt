@@ -1,5 +1,0 @@
-fich1.txt
-
-Modif 1
-MODIF 2
-MODIF 3
